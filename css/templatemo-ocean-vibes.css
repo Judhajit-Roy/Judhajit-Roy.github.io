@@ -54,8 +54,8 @@ div { box-sizing: border-box;}
 .tm-mb-80 { margin-bottom: 80px; }
 .tm-text-center { text-align: center; }
 .tm-text-right { text-align: right; }
-.tm-color-primary { color: #309AFD; }
-.tm-color-gray { color: #666768; }
+.tm-color-primary { color: #49b4e9; }
+.tm-color-gray { color: #848486; }
 .tm-color-gray-2 { color: #98999A; }
 .tm-color-light-gray { color: #9E9FA0; }
 .tm-bg-white { background-color: #FFF; }
@@ -276,7 +276,7 @@ a.tm-paging-link:hover {
 }
 
 .tm-gallery-links {
-    margin-left: 35px;
+    margin-left: 0px;
     margin-bottom: 55px;
 }
 
@@ -455,12 +455,12 @@ figure.effect-chico:hover p {
 }
 .tm-contact-col {
     flex: 0 0 50%;
-    padding-left: 40px;  
+    padding-left: 30px;  
 }
 
 .tm-contact-col-r {
-    padding-left: 0;
-    padding-right: 30px;
+    padding-left: 30px;
+    padding-right: 10px;
 }
 
 .tm-contact-form {
