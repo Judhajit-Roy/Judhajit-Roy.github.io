@@ -88,13 +88,13 @@ a {
 #tm-video-container {
     max-height: 400px;
     overflow: hidden;
-    background-color: #333;
+    background-color: #95dff5;
     margin-bottom: 90px;
     position: relative;
 }
 
 #tm-video {
-    width: 100%;
+    width: 120%;
     height: auto;
 }
 
@@ -103,7 +103,7 @@ a {
     bottom: 20px;
     right: 20px;
     z-index: 1000;
-    color: #e1e1e1;
+    color: #979595;
 }
 
 .tm-nav-item {
@@ -225,7 +225,7 @@ button.mfp-arrow {
 /* Intro */
 .tm-intro-img {
     max-width: 300px;
-    max-height: 600px;
+    max-height: 576px;
 }
 
 /* Gallery */
